@@ -118,6 +118,7 @@ ul{list-style:none}
 
 .hero{
   background-image: url(images/bg-hero-mobile.svg);
+  background-color: var(--clr-Very-Pale-Cyan);
   background-repeat: no-repeat;  
   background-size: cover;
 }
