@@ -287,6 +287,7 @@ footer{
   .hero{
     background-image: url(images/bg-hero-desktop.svg);
     min-height: 100vh;
+    max-height: 1000px;
     align-items: center;
   }
 
