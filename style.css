@@ -276,10 +276,6 @@ footer{
 
 
 @media(min-width: 600px){
-  
-}
-
-@media(min-width: 600px){
   body{
     text-align: left;
   }
@@ -296,6 +292,11 @@ footer{
 
   .hero-section{
     grid-template-columns: 1fr 1fr;
+    place-content: center;
+  }
+
+  h1{
+    font-size: 2.5rem;
   }
 
   .block-img-on-the-right{
